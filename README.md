@@ -89,12 +89,17 @@ app/src/main/java/com/example/ferrykepri/
 
 | Splash | Login | Beranda |
 |---|---|---|
-| ![Splash](<img width="336" height="763" alt="image" src="https://github.com/user-attachments/assets/16d0c6a8-f175-4467-a4ec-89f1f74f07d6" />
-) | ![Login](screenshots/login.png) | ![Beranda](screenshots/home.png) |
+| (<img width="336" height="763" alt="image" src="https://github.com/user-attachments/assets/16d0c6a8-f175-4467-a4ec-89f1f74f07d6" />
+) | (<img width="316" height="757" alt="image" src="https://github.com/user-attachments/assets/0d4bc63b-b0eb-4fa2-9b06-c41109a655c7" />
+) | (<img width="245" height="792" alt="image" src="https://github.com/user-attachments/assets/143991cd-b9b8-4256-847e-63eb74e91efb" />
+) |
 
 | Hasil Jadwal | Detail | Tiket |
 |---|---|---|
-| ![Hasil](screenshots/results.png) | ![Detail](screenshots/detail.png) | ![Tiket](screenshots/ticket.png) |
+| (<img width="278" height="801" alt="image" src="https://github.com/user-attachments/assets/54f26dd6-f486-430e-843a-a470c8aa1235" />
+) | (<img width="276" height="801" alt="image" src="https://github.com/user-attachments/assets/30b42e47-2305-4575-89aa-7b7396332542" />
+) | (<img width="243" height="782" alt="image" src="https://github.com/user-attachments/assets/54227ab3-29b6-4ea1-b068-6e422c7505e1" />
+) |
 
 ## 🎨 Desain UI/UX
 Desain dibuat dengan Google Stitch bertema biru modern. Beberapa elemen pada desain awal (misalnya status "live", login Google/Singpass, dan data paspor) disederhanakan atau hanya ditampilkan secara statis agar sesuai dengan cakupan praktikum.
