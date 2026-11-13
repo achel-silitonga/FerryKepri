@@ -10,9 +10,9 @@ Aplikasi mobile Android (frontend only) untuk melihat jadwal ferry Batam–Singa
 | Mata Kuliah | Pemrograman Perangkat Bergerak (Praktikum), RPL317 |
 | Tugas | Asesmen Tengah Semester (ATS) Praktikum |
 | Program Studi | Teknologi Rekayasa Perangkat Lunak |
-| Kelas | TRPL 3_ (isi kelas kamu) |
-| Nama | **(isi nama lengkap)** |
-| NIM | **(isi NIM)** |
+| Kelas | TRPL 3B-Pagi |
+| Nama | **Achel Verawati Silitonga** |
+| NIM | **4342501047** |
 | Tahun Akademik | Ganjil 2026/2027 |
 
 ## ✨ Fitur Utama
@@ -73,7 +73,7 @@ app/src/main/java/com/example/ferrykepri/
 ## 🚀 Cara Menjalankan
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/USERNAME/NAMA-REPO.git
+   git clone https://github.com/achel-silitonga/FerryKepri.git
    ```
 2. Buka folder project dengan **Android Studio** (versi terbaru disarankan).
 3. Tunggu proses **Gradle Sync** selesai.
