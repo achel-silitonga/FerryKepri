@@ -89,7 +89,8 @@ app/src/main/java/com/example/ferrykepri/
 
 | Splash | Login | Beranda |
 |---|---|---|
-| ![Splash](screenshots/splash.png) | ![Login](screenshots/login.png) | ![Beranda](screenshots/home.png) |
+| ![Splash](<img width="336" height="763" alt="image" src="https://github.com/user-attachments/assets/16d0c6a8-f175-4467-a4ec-89f1f74f07d6" />
+) | ![Login](screenshots/login.png) | ![Beranda](screenshots/home.png) |
 
 | Hasil Jadwal | Detail | Tiket |
 |---|---|---|
